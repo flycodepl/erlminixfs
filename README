@@ -1,0 +1,2 @@
+using: 
+	main:read("path/to/minixfs.img").
